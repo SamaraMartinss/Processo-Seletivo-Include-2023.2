@@ -1,11 +1,5 @@
-@font-face {
-    font-family: Inter;
-    src:url(fontes/inter/Inter-VariableFont_slnt\,wght.ttf);
-}
-@font-face {
-    font-family: LeagueGothic;
-    src:url(fontes/League_Gothic/LeagueGothic-Regular-VariableFont_wdth.ttf);
-}
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&family=League+Gothic&display=swap');
+
 :root{
     font-size: 100%;
 }
